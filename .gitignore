@@ -1,0 +1,21 @@
+# .NET
+exe_final/PCRemoteListener/bin/
+exe_final/PCRemoteListener/obj/
+*.user
+*.suo
+
+# Android
+apk_final/PCRemoteApp/.gradle/
+apk_final/PCRemoteApp/build/
+apk_final/PCRemoteApp/app/build/
+apk_final/PCRemoteApp/local.properties
+apk_final/PCRemoteApp/.idea/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vs/
+*.sln.DotSettings.user

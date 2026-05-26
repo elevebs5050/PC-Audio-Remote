@@ -1,0 +1,46 @@
+END USER LICENSE AGREEMENT
+
+Last updated: May 2026
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR USING THIS SOFTWARE.
+
+1. DISCLAIMER OF WARRANTY
+   THIS SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+2. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR (SEBAI MOHAMED SAFA) BE LIABLE FOR ANY CLAIM, DAMAGES,
+   OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+   OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+3. "VIBE CODED" NOTICE
+   This software was created through a combination of developer guidance and AI-assisted
+   code generation ("vibe coding"). While efforts have been made to ensure reasonable
+   quality and security, this software may contain bugs, incomplete features, or unexpected
+   behavior. Use at your own risk.
+
+4. ACCEPTANCE OF RISK
+   By installing and using this software, you acknowledge that:
+   - The author is NOT responsible for any damage to your system, data loss, or security
+     breaches resulting from the use of this software.
+   - This software allows remote control of your computer over a network. You are solely
+     responsible for securing your network and ensuring that only authorized users
+     have access.
+   - TLS encryption is provided as a security measure but does not guarantee absolute
+     protection against determined attackers.
+
+5. LICENSE
+   You are granted a non-exclusive, non-transferable license to use this software for
+   personal, non-commercial purposes. You may not redistribute, sell, or sublicense
+   this software without prior written consent from the author.
+
+6. OPEN SOURCE
+   The source code for this project is available for review. You are encouraged to
+   examine it and compile it yourself if you have concerns about security or functionality.
+
+7. GOVERNING LAW
+   This agreement shall be governed by the laws applicable in the jurisdiction of the author.
+
+By clicking "I Agree" and installing this software, you acknowledge that you have read,
+understood, and agree to be bound by the terms of this agreement.
