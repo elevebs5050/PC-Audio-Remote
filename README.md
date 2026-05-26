@@ -93,7 +93,7 @@ The published EXE will be at `bin/Release/net8.0-windows/win-x64/publish/PCRemot
 
 **Option A — Install APK**
 
-1. Download [`PC-Remote-App-v1.0.apk`](release/PC-Remote-App-v1.0.apk)
+1. Download [`PC-Remote-App-v1.0.apk`](PC-Remote-App-v1.0.apk)
 2. On your Android device, enable "Install from unknown sources"
 3. Open the APK file and install
 4. Grant the `INTERNET` and `ACCESS_NETWORK_STATE` permissions when prompted
